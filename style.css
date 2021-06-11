@@ -1,0 +1,54 @@
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #b3ffe0;
+}
+
+#project {
+	background-color: #b3ffe0;
+}
+
+#project img{
+	background-size: cover;
+	background-image: cover;
+	object-fit: cover;
+	height: 400px;
+	width: 400px;
+}
+
+#project {
+	background-color: #b3ffe0;
+}
+
+#sertifikat {
+	background-color: #b3ffe0;
+}
+
+#about .btn {
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+#tools img {
+	background-size: cover;
+	background-image: cover;
+	object-fit: cover;
+	height:75px;
+	width: 75px;
+	border-radius: 100px;
+}
+
+footer {
+	background-color: #1affa3;
+	color: white;
+}
+
+footer a {
+	color: white;
+}
+
+section {
+	padding-top: 5rem;
+}
